@@ -6,7 +6,7 @@ On a whim, I decided to hack this together as fast as I could, so I gave myself 
 
 ## Architecture
 
-DB (postgresql) <=> PHP web API <=> Web application
+DB (postgresql) <=> PHP web API <=> Web application <=> YouTube API
 
 ## Demo
 
